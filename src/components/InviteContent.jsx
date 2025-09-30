@@ -67,7 +67,7 @@ const InviteContent = ({ onNext }) => {
                 <iframe
                   width="100%"
                   height="315"
-                  src="https://www.youtube.com/embed/Rx5zZD4-JB0"
+                  src="https://www.youtube.com/embed/Kr0XwYjaebg"
                   title="Vídeo do Casal"
                   frameBorder="0"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
